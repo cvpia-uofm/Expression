@@ -8,3 +8,11 @@ Expression assists people with visual impairments in perceiving  social  signals
 4. Provide audio feedbacks to user
 
 Details can be found in this article https://web.archive.org/web/20190430120824id_/https://eudl.eu/pdf/10.4108/icst.mobicase.2014.257780
+
+## Requiremets
+1. Google glass
+2. Android Studio
+3. C++
+## How to use:
+1. Build and install Expression app from "Expression_app" folder in google glass
+2. Run expression  
