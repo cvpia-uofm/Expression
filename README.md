@@ -7,6 +7,8 @@ Expression assists people with visual impairments in perceiving  social  signals
 3. Detect head movements (look up/down, look left/right, tiltleft/right)
 4. Provide audio feedbacks to user
 
+![System architecture](misc/system_arch.jpg?raw=true "System Architecture")
+
 Details can be found in this article https://web.archive.org/web/20190430120824id_/https://eudl.eu/pdf/10.4108/icst.mobicase.2014.257780
 
 ## Requiremets
